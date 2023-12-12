@@ -11,7 +11,7 @@ public class Contador {
         int numero2 = scanner.nextInt();
 
         contar(numero1, numero2);
-    }
+    }3
     static void contar(int numero1, int numero2) {
         try {
             verificaPrimeiroNumeroCasoMaior(numero1, numero2);
